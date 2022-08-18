@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 👋 Hi, I’m @Frontend-Dev-11.<br>
 👀 I’m interested in frontend web development.<br>
 🌱 I’m currently learning React Js.<br>
